@@ -1,0 +1,7 @@
+# comments
+# **/directory
+# *.zip
+# /directory
+
+/node_modules
+*.log
